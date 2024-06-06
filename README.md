@@ -8,3 +8,6 @@
 5. Paste the HTTPS link copied earlier into the input that appeared.
 6. Choose an appropriate directory.
 7. Click Done, and the project will be cloned. Once you open the project, Android Studio should initialise it automatically.
+
+# Youtube Tutorial Link
+* https://www.youtube.com/watch?v=HPMqigGp_js
